@@ -1,0 +1,19 @@
+Dataset: fish_transport.csv
+
+Source: K. Thongprajukaew, S. Takaeh, N. Esor, S. Saekhow, S. Malawa, N. Nuntapong, W.Hahor, A. Choodum
+(2023). "Optimal water volume for transportation of male Siamese fighting fish
+(Betta splendens)," Aquaculture Reports, Vol. 28, https://doi.org/10.1016/j.aqrep.2022.101430.
+
+Description: 
+Skin coloration scores for Siamese fighting fish when shipped in various water volumes.
+Responses: L* (0=darkness, 100=brightness) and a*(+a=red, -a=green).
+Treatments: Control (1,not transported), 40mL(2), 60mL(3), 80mL(4), 100mL(5), 120mL(6), 140mL(7)
+n=15 fish per treatment in Completely Randomized Design (each fish in different container).
+Data generated to match means and SDs (paper reported SEMs).
+No attempt to generate multivariate (L*,a*)
+
+Variable Names:
+shipTrt  (labels given in Description)
+trtID    (Fish ID within Trt)
+L.star
+a.star

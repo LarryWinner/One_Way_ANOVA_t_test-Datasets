@@ -1,0 +1,16 @@
+Dataset:  iran_rock.csv
+
+Source: B. Mehrgini, H. Memarian, M.B. Dusseault, A. Ghavidel, M. 
+Heydarizadeh (2016)> "Geomechanical Characteristics of Common Reservoir
+Caprocck in Iran (Gachsaran Formation), Experimental and Statistical 
+Analysis," Journal of Natural Gas Science and Engineering, Vol. 34,
+pp. 898-907.
+
+Description: Density of samples of 8 rocks from each of 3 lovations in Iran.
+Locations: 1=Ghotvand, 2=Chamshir, 3=Khersan
+Data simulated to match mean, SD, min, max
+
+Variables:
+location
+rock.dens    (kg/m^3)
+

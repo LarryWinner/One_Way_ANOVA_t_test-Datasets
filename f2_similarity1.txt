@@ -1,0 +1,35 @@
+Datasets:  f2_similarity1.csv    f2_similarity1a.csv  
+
+Source: L. Noce, L. Gwaza, V. Mangas-Sanjuan, A. Garcia-Arieta (2020).
+"Comparison of Free Software Platforms for the Calculation of the 90% Confidence
+Interval of f2 Similarity Factor by Bootstrap Analysis,"
+European Journal of Pharmaceutical Sciences, Vol. 146.   
+https://doi.org/10.1016/j.ejps.2020.105259
+
+
+Description: Dissolution profiles (percent dissolved) for 3 drug formulations over 9 time points
+for 12 tablets per formulation. 
+Formulations: Test1, Test2, Reference  (Compared Test1 vs Ref and Test2 vs Ref)
+Time Points (minutes); 120,130,135,140,150,165,180,210,240
+
+Variable Names (f2_similarity1.csv)
+tablet   (within formulation)
+minutes
+diss.T1
+diss.T2
+diss.R
+
+Variable Names (f2_similarity1a.csv)
+formulation
+tablet  (within formulation)
+min120
+min130
+min135
+min140
+min150
+min165
+min180
+min210
+min240
+
+

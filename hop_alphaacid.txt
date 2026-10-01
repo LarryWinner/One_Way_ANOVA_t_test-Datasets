@@ -1,0 +1,13 @@
+Dataset:   hop_analysis.csv
+
+Source: M. Meilgaard *1960). "Hop Analysis, Cohumulone Factor and the 
+Bitterness of Beer: Review and Critical Evaluation," Journal of the Institute 
+of Brewing, Vol. 66, Issue 1, pp. 35-50.
+
+Description: 10 replicates of alpha acids taken from bales of 10
+varieties of beer. Can be run as 1-way random effects (variety) model.
+
+Variables/Columns:
+variety    
+replicate   
+alphaAcid  

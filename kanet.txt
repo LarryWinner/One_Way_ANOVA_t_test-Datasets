@@ -1,0 +1,19 @@
+Dataset:   kanet.csv
+
+Source: T.H. Holland (1902). "The Kanets of Kulu and Lahoul, Punjab: A
+Study in Contact-Metamorhism," The Journal of the Anthropological
+Institute of Great Britain and Ireland, Vol. 32, pp.96-123
+
+Description: Anthropometic Measurements of 30 Lahoul Kanets and 60
+Kulu Kanets in Panjub.
+
+Variable names
+name    
+group (1=Lahoul, 2=Kulu)
+age
+height
+armspan
+seatHt     (seated height)
+kneelHt    (kneeling height)
+cubit
+leftFtLen  (Left foot length)

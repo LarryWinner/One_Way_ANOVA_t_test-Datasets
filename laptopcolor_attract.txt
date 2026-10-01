@@ -1,0 +1,16 @@
+Dataset: laptopcolor_attract.csv
+
+Source: H. Lin (2014). "Red-Colored Products Enhance the Attractiveness of Women,"
+Displays, Vol. 35, pp. 202-205.
+
+Description:
+Results of experiments where males (1) and females (2) rated the 
+  attractiveness (on a 5-point Likert scale with 1=Lowest, 5=Highest).
+  of a female holding a laptop computer in one of 4 colors in a photograph: 
+  Red (1), Black (2), Silver (3), Blue (4).
+  80 males with 20 per color in a Completely Randomized Design
+  80 females "  "   "    "   "  "     "          "        "
+
+Variables:
+gender   (1=M, 2=F)
+color    (1=Red, 2=Black, 3=Silver, 4=Blue)

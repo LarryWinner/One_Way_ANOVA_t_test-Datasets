@@ -1,0 +1,12 @@
+Dataset:  eggpore.dat
+
+Source: C.Tyler and F.H. Geake (1953). "Studies on Egg Shells. III. - Some
+Physical and Chemical characteristics of the Egg Shells of Domestic Hens,"
+Journal of the Science of Food and Agriculture, Vol.4, Issue 12, pp. 587-596.
+
+Description: Pore Count as number of pores per cm^2 for eggs among
+14 hens. 1-Way Random Effects ANOVA.
+
+Variables/Columns
+Hen ID   7-8
+Pore Count   12-16   /* Pores/cm^2  */

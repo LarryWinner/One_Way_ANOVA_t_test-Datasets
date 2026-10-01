@@ -1,0 +1,21 @@
+Dataset: elephant_ivory_isotope.csv
+
+Source: S. Ziegler, S. Merker, B. Streit, M. Boner, D.E. Jacob (2016).
+"Towards Understanding Isotope Variability in Elephant Ivory to Establish
+Isotopic Profiling and Source-Area Estimation," Biological Conservation,
+Vol. 196, pp. 154-163.
+
+Description: Data on 5 isotopes measured on 495 elephants from 28 African and 
+6 Asian States.
+
+Variables/Labels
+Elephat ID    ID
+Country Code   CntryCode
+Region        
+delta13C       
+delta15N
+delta18O
+delta2H
+delta34S
+Longitude      Long
+Latitude       Lat

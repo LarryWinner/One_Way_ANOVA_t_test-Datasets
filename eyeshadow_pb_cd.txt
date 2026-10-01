@@ -1,0 +1,17 @@
+Dataset: eyeshadow_pb_cd.csv
+
+Source: T.G. Kazi, H.I. Afridi, M. Bhatti, A. Akhtar (2019).
+"A rapid ultrasonic energy assisted preconcentration method for
+simultaneous extraction of lead and cadmium in various cosmetic brands
+using deep eutectic solvent: A multivariate study,"
+Ultrasonics - Sonochemistry, Vol. 51, pp. 40-48
+
+Description:
+Measurements of Lead (Pb) and Cadmium (Cd) for 15 brands of eyeshadow.
+Data generated to match means and SDs. 6 replicates per brand.
+Data for Pb and Cd generated independently (Not for multivariate relation).
+
+Variable Names:
+eyeshadow
+Pb  (mu g/gram)
+Cd  (mu g/gram)

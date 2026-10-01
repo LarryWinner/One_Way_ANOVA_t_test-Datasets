@@ -1,0 +1,14 @@
+Dataset: espresso1.csv
+
+Source: A. Parenti, L. Guerrini, P. Masella, S. Spinelli, L. Calamai,
+P. Spugnoli (2014). "Comparison of Espresso Coffee Brewing Techniques," 
+Journal of Food Engineering, Vol. 121, pp. 112-117.
+
+Descrption: Comparison of foam index (Y, in %) for 3 methods of brewing
+espresso. Method 1=Bar Machine(BM), Method 2=Hyper-Espresso Method (HIP),
+Method 3= I-Espresso System (IT). 9 replicates/treatment.
+Data simulated to match means and SDs
+
+Variables:
+foamIndx
+method

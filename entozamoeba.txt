@@ -1,0 +1,20 @@
+Dataset:  entozamoeba.dat
+
+Source: A.M. Griffin and W.G. McCarten (1949). "Some Methods for the
+Quantitative Study of Entozoic Amoebae in Cultures," The Journal of
+Parasitology, Vol.35, #2,pp193-198
+
+
+Description: Yields of entozoic amoebae in 5 treatment conditions.
+
+Conditions:
+1=None
+2=Heat at 70C for 10min
+3=Addition of 10% Formalin
+4=Heat followed by formalin
+5=Formalin followed, after 1 hr by heat
+
+Variables/Columns
+Treatment    8
+Yield (x10^-4)   14-16
+

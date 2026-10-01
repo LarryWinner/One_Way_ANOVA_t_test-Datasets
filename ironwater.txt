@@ -1,0 +1,11 @@
+Dataset:  ironwater.dat
+
+Source: M. Sananman and D.W. Lear ((1961). "Iron in the Chesapeake Waters", 
+Chesapeake Science, Vol. 2, #3/4, pp.207-209.
+
+Description: Measurements of iron levels at several depths in
+Chesapeake Bay. Units=mg/L
+
+Variables/Columns
+Depth (feet)  1-3
+Iron Content   7-11
