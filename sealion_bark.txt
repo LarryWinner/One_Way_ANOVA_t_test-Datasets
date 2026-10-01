@@ -1,0 +1,16 @@
+Dataset:  sealion_bark.csv
+
+Source: H. AhonenA.J. Stow, R.G. Harcourt, I. Charrier (2014).
+"Adult Male Australian Sea Lion Barking Calls Reveal Clear Geographical
+Variations," Animal Behviour, Vol. 97, pp. 229-239.
+
+Description: Duration (in milliseconds) of sea lion barking calls
+at 7 locations in Australia. Each sea lion was recorded 20 times,
+but no random effects were included.
+Locations: 1=Lewis Island, 2=Liguanea Island, 3=Olive Island, 
+4=Blefuscu Island, 5=Lilliput Island, 6=North Fisherman Island,
+7=Beagle Island
+
+Variables:
+location
+duration

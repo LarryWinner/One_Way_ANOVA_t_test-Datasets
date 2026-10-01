@@ -1,0 +1,28 @@
+Dataset:  pests_cane.dat
+
+Source: P.C. Mahalanobis and S.S. Bose (1934). "A Statistical Note on
+the Effect of Pests on the Yield of Sugarcane and the Quality of Cane-Juice,"
+Sankhya: The Indian Journal of Statistics, Vol.1, #4, pp.399-406.
+
+Description: Results of experiments on the effects of four types of
+sugarcane pests on weight of 25 canes (lbs) and the weight of juice for
+the 25 canes (lbs). Experimental units=25 grouped canes, 
+6 replicates per treatment.
+Treatments:
+1=Healthy (Control)
+2=Top-shoot Borer
+3+Stem Borer
+4=Top-shoot & Stem Borer
+5=Root Borer
+6=Termites
+7=Stem&Root Borer
+8=Root Borer & Termites
+9=Top-Shoot & Root Borer
+10=Top-Shoot & Stem & Root Borer
+11=Top-Shoot Borer & Termites
+
+Variables/Columns
+Treatmet 7-8
+Weight of Canes (lbs)   10-16
+Weight of Juice (lbs)   18-24
+

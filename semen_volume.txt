@@ -1,0 +1,14 @@
+Dataset:   semen_volume.csv
+
+Source: M.S. Christman, K.H. Kraft, G.E. Tasian, S.A. Zderic, T.F. Kolon (2013).
+"Reproducibility and Reliability of Semen Analyses in Youths at Risk
+of Infertility," Journal of Urology, 
+2013 August ; 190(2): 683–688. doi:10.1016/j.juro.2013.02.030.
+
+Description:
+Two semen specimen volume measurements on 76 males.
+Data approximated from plot in paper.
+
+Variable Names:
+sa1Vol   (mL)
+sa2Vol   (mL)

@@ -1,0 +1,13 @@
+Dataset:  kid_calories.csv
+
+Source: K. nan der Horst, A. Ferrage, A. Rytz (2014). "Involving Children
+in Meal Preparation," Appetite. Vol. 79, pp.18-24
+
+Description: Experiment conducted to determine effect of children
+participating in meal preparation on caloric intake. Two groups
+(independent samples). Treatment 1: Children participated.
+Trt 2: Did not participate. Data generated to match means and SDs.
+
+Variables:
+Treatment
+Caloric Intake

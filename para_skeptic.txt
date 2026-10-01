@@ -1,0 +1,17 @@
+Dataset: para_skeptic.dat
+
+Source: L. Storm and M.A. Thalbourne (2005). "The Effect of Change in
+Pro Attitude on Paranormal Performance: A Pilot Study Using Naive
+and Sophisticated Skeptics," Journal of Scientific Exploration, Vol.19,
+#1, pp.11-29.
+
+Description: Experiment that 1) classified subjects as Believers or
+skeptics with respect to psi (based on scores on ASGS test, and
+2) Measured successful matches in 50 trials with 5 Zener card symbols
+(star, waves, square, circle, and cross).  The expected count is 10 
+under "no ESP" assumption
+
+
+Variables/Coluns
+Group  8  /* 1=Believer  (ASGS >=17), 2=Skeptic  (ASGS < 17)  */
+Correct matches   15-16    /*  Out of 50  */

@@ -1,0 +1,15 @@
+Dataset: metaphor.dat
+
+Source: J.R. readence, R.S. baldwin, M.H. Head (1986). "Direct instruction
+in Processing Metaphors," Journal of Reading Behavior, Vol. VXIII, #4,
+pp. 325-339.
+
+Description: Results of experiment comaring teaching metaphors by
+direct explicit teaching (process instruction) and the current method
+(basal instruction). Response is number of correct metaphors (out of 8) 
+by the child. 
+
+Variables/Columns
+ID    7-8
+Treatment   16  /* 1= Processing,  2=basal  */
+Correct answers   24

@@ -1,0 +1,11 @@
+Dataset: product_rating.dat
+
+Sourc: J. Bi and C. Kuesten (2012). "Intraclass Correlation Coefficient (ICC):
+A Framework for Monitoring and Assessing Performance of Trained Sensory
+Panels and Panelists," Journal of Sensory Studies, Vol. 27, pp. 352-364.
+
+Description: Ratings for 8 Sampled products, 10 ratings per product.
+
+Variables/Columns
+Product     8
+Rating score   16

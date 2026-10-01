@@ -1,0 +1,24 @@
+Dataset:  meniscus.dat
+
+Source: P. Borden, J. Nyland, D.N.M. Caborn, D. Pienkowski (2003).
+"Biomechanical Comparison of the FasT-Fix Meniscal Repair Suture System
+with Vertical Mattress Sutures and Meniscus Arrows," The American Journal
+of Sports Medicine, Vol. 31, #3, pp. 374-378.
+
+Description: Comparison of 3 Fixation Methods wrt 3 responses, with 6
+replicates (knees) per method.
+Methods:
+1=Vertical Suture
+2=Meniscus Arrow
+3=FasT-Fix
+
+Responses:
+Load at failure (N)
+Displacement (mm)
+Stiffness  (N/mm)
+
+Variables/Columns
+Method     8
+Load at Failure 10-16
+Displacement    18-24
+Stiffness      26-32

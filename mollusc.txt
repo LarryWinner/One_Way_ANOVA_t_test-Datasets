@@ -1,0 +1,13 @@
+Dataset:  mollusc.dat
+Source: Jenkins, O.P. and Carlson, A.J. (1903), "The Rate of Nervous Impulse
+in Certain Molluscs," American Journal of Physiology, Volume 8, pp 251--268.
+
+Description: Rate of nervous impulse measurements (cm/sec) among
+specimens from 5 species of molluscs.
+
+Variables/Columns
+
+Species Name           1-32
+Species Number         35 
+Specimen id            42-43
+Impulse rate           45-51

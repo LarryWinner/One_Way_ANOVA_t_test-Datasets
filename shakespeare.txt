@@ -1,0 +1,13 @@
+Dataset:  shakespeare.dat
+
+Source: P.E. Bennett (1957), "The Statistical Measurement of a Stylistic
+Trait in Julius Caesar and As You Like It", Shakespeare Quarterly,
+Vol. 8 pp 33-50.
+
+Description: Frequency of occurrence of nouns in two of Shakespeare's Plays
+
+Variables/Columns
+
+Play   8  /* 1=JC.  2=AYLI
+# of occurrences   14-16
+# of nouns with this many occurrences    22-24

@@ -1,0 +1,26 @@
+Dataset:  ad_sex1.csv
+
+Source: K. Hyllegard, J. Ogle, R-N. Yan (2009). "The Impact of
+Advertising Message Strategy - Fair Labour v. Sex Appeal - Upon Gen Y
+Consumers' Intent to Patronize an Apparel Retailer," Journal of Fashion
+Marketing and Management, Vol. 13, #1, pp. 109-127.
+
+Description: Results of a One-Way ANOVA (Total n=425) of students
+in 4 Conditions:
+1) Ad 1 Only
+2) Ad1 & Ad 2
+3) Ad 1 & Ad 3
+4) Ad 1 & Ad 4
+
+Ad1: Firm as "pioneer of industry standards in social responsibility"
+     and US location
+Ad2: Young woman partially clothed in shower, winner of wet t-shirt contest
+Ad3: Female co-founder of porn mag for women, in jogging shorts/hoodie
+Ad4: Female and male partially clothed couple in bed, faces cropped out
+    of image. Female on top of male.
+Data simulated to match means and F-stat for attitude toward the firm scores.
+
+Variables
+subj_id
+attitude
+ad_grp

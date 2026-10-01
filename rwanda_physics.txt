@@ -1,0 +1,13 @@
+Dataset:  rwanda_physics.csv
+
+Source: J. Rusanganwa (2013). "Multimedia as a Means to Enhance Teaching
+Technical Vocabulary to Physics Undergraduates in Rwanda," English
+for Specific Purposes, Vol. 32, pp. 36-44.
+
+Description: Comparison of a multimedia course with a traditional course
+in teaching students physics vocabulary. 2-sample t-test. data simulated to 
+match group means and SDs.
+
+Variables:
+score
+trt.y

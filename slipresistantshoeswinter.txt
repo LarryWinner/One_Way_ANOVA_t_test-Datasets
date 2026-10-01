@@ -1,0 +1,35 @@
+Dataset: slipresistantshoewinter.csv
+
+Source: C. Aschan, M. Hirvonen, E. Rajamaki, T. Mannelin (2005). "Slip
+Resistance of Oil Resistant and Non-Oil Resistant Footwear Outsoles in
+Winter Conditions," Safety Science, Vol. 43, pp. 375-389
+
+Description: Results of experiments of friction in icy conditions,
+with 23 brands and 6 replicate measurements per brand. Data are mean and
+SD for each set of measurements.
+Brand characteristics: cleat length, oil resistance volume change,
+oil restistand indicator, Hardness @20C, @-20C, Abrasion resistance, Density
+
+Dynamic coefficient of friction scores: @0C, @-5C, @-20C, on steel surface
+with glyeride
+
+Variable Names:
+Shoe
+Cleat
+ORVolD   /* oil resistance volume change % */
+OilRes   /* 1=Yes, 0=No */
+NumRep   /* always=6  */
+Ice0Mn   /* DOCF at 0C Mean  */
+Ice0SD   /*  "   "   " SD    */
+IceM5Mn  /*  "   "  -5C Mean  */
+IceM5SD  /*  "   "   "  SD   */
+IceM20Mn /*  "   " -20C Mean  */
+IceM20SD /*  "   "  "   SD    */
+StlGlycMn /* Steel/Glyceride Mean */
+StlGlycSD /*  "       "      SD  */
+Hard20   /* Outsole Hardness @20C */
+HardM20  /*   "       "      @-20C */
+ChngPct  /* Percent Change */
+AbrRes   /* Abrasion Resistance  */
+Density
+

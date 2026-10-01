@@ -1,0 +1,23 @@
+Dataset: noise_tkr.csv
+
+Source: M. Dagci and S.D. Oztekin (2025). "Noise Control
+Methods and Music Therapy Effects on Patients with Total Knee
+Replacement Surgery: A Randomized Controlled Trial," Noise & Health,
+Vol. 27, pp. 853-862.
+
+Description: Clinical trial to study effects of noise conditions on physical measures
+during total knee replacement surgery. 25 subjects per treatment.
+Treatments: 1=Active Noise Control (ANC), 2=Passive noise control (PNC), 3=Music, 4=Control
+Physical measures: Pulse Rate, Systolic blood pressure, Diastolic blood pressure,
+                  respiration rate, and body temperature (Should not treat responses as
+                  being multivariate)
+Data generated to match treatment means and standard deviations
+
+Variable Names:
+patientID
+soundTrt     (Given above)
+pulseRate
+SBP   (mm Hg)
+DBP   (mm Hg)
+respRate
+bodyTemp  (Celsius)

@@ -1,0 +1,14 @@
+Dataset: repeatrun.dat
+
+Source: I. Rollo, C. Williams, A. Nevill (2008). "Repeatability of scores on a
+Novel Test of Endurance Running Performance," Journal of Sports Sciences, Oct.
+14, 1:8. [Epub ahead of print]
+
+Description: Total distance covered in 1 hour (meters) on treadmill by 10 runners during 3
+trials (separated by 1 week each).
+
+
+Variables/Columns
+Runner   7-8
+Trial Number   16
+Distance in meters  18-24
