@@ -1,0 +1,17 @@
+Dataset:  breast_diep.csv
+
+Source: D.G. Liang, J.R. Dusseldorp, C. van Schalkwyk, S. Hariswamy,
+S. Wood, V. Rose, P. Moradi (2016). "Running Barbed Suture Quilting Reduces
+Abdominal Drainage in Perforator-Based Breast Reconstruction,"
+Journal of Plastic, Reconstructive & Aesthetic Surgery, Vol. 69, pp. 42-47.
+
+Desription: Results of study of patients receiving breast reconstruction
+with a deep inferior epigastric artery perforator (DIEP) flap.
+Controls Group 27 Patiets without abdominal flap plication.
+Treatment Group: 26 patients with abdominal flap.
+Response: Total abdominal drainage (ml)
+
+Variables:
+trt    (1=Control, 2=Treatment)
+age
+totvol  (Total Volume Loss, in ml)

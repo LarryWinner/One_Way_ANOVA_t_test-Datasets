@@ -1,0 +1,14 @@
+Dataset:  berry_texture.csv
+
+Source: I. Zouid, R. Siret, F. Jourjon, E. Mehinagic, L. Rolle (2013).
+"Impact of Grapes Heterogeneity According to Sugar Level on Both Physical
+and Mechanical Berries Properties and their Anthocyanins Extractability
+at Harvest," Journal of Texture Studies, Vol. 44, pp. 95-103.
+
+Description: Sugar content group, with 6 levels (176.5, 192.6, 209.3,
+225.0, 242.1, 258.5 g/L) and anthocyain extract (%) with 15 replicates
+per sugar group. Data simulated to match means and SDs by group.
+
+Variables
+sugar
+anthExt

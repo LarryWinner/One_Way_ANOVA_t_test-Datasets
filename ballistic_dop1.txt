@@ -1,0 +1,9 @@
+Dataset: ballistic_dop.csv
+
+Source: E.P. Carlton, B.B. Johnsen, D-B. Rahbek, H. Broos, A. Snippe (2019).
+"Round Robin Using the Depth of Penertation Test Method on an Armour
+Grade Alumina," Defence Technology, Vol. 15, pp. 829-836.
+
+Description: Depth of penetration (DoP, in mm) for 8mm alumina using
+AP8 @ 900 meters/second for 6 laboratories (Lab). Data generated to
+match mean/SD by lab.

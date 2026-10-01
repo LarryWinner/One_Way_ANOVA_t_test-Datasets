@@ -1,0 +1,26 @@
+Dataset:  beerbottle.dat
+
+Source: R.G. Ault, E.J. Hudson, D.J. Linehan, and J.D. Woodward (1967).
+"A Practical Approach to the Assessment of Head Retention of Bottled Beers,"
+Journal of the Institute of Brewing, Vol. 73, Issue 6, pp. 558-566.
+
+Description: Three Aspects of head retention are made
+for 3 bottlings, (n1=n2=20,n3=19):
+Head Formation, %Adhesion, and %Collapse Rate of foam.
+Readings made:
+A = @ 5secons: Top of beer foam
+B = @ 30seconds: level of the residual of beer below zero mark
+C = @ 240seconds: top of beer foam
+D = level of the center of the foam
+E = level of the residual beer
+
+%Adhesion = 100((A+B)-(A-C))/(A+B)
+%Collapse = 100((A+B)-(D+E))/(A+B)
+
+Variables/Columns
+Bottling    8
+Bottle within Bottling    15-16
+Head Formation  20-24
+%Adhesion    28-32
+%Collapse    36-40
+

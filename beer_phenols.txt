@@ -1,0 +1,21 @@
+Dataset:  beer_phenols.csv
+
+Source: V. Sanna and L. Pretti (2015). "Effect of Wine Barrel Aging or Sapa Addition on
+Total Polyphenol Content and Antioxidant Activity of Some Italian Craft Beers," 
+International Journal of Food Science Technology, Vol. 50, pp.700-707
+
+Description: Total polyphenol content for 3 replicates from 8 brands of Italian craft beers.
+Units = Gallic acid equivalents mg/Litre. Data generated from means and standard deviations
+Brands and Alcohol %:
+1 = Pilsner Urquell   4.5%
+2 = Birra del Senatore   5.0%
+3 = BB9   9.0%
+4 = BB10   10.0%
+5 = Nut    7.0%
+6 = Red Poison   6.5%
+7 = Terre        12.0%
+8 = Lune         11.5%
+
+Variable Names:
+brand
+polyphenols

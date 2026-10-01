@@ -1,0 +1,20 @@
+Dataset:  apple_hair.dat
+
+Source: A. Kamimura, T. Takahishi, and Y. Watanabe (2000). "Investigation
+of Topical Application of Procyanidin B-2 from Apple to Identify its 
+Potential Use as a Hair Growing Agent," Phytomedicine, Vol. 7, #6, pp. 529-536.
+
+Description: Study with 10 control subjects and 19 treated subjects
+for procyandin B-2 on hair growth. Total hairs (in 0.25 cm^2) at
+0 months and 6 months. Terminal hairs (> 60 mum in diameter, in 0.25 cm^2)
+at 0 months and 6 months.
+
+Variables/Columns
+Treatment  8   /* 1=Placebo,   2=PB-2  */
+Total hairs @ 0 Months   12-16
+Total hairs @ 6 Months   20-24
+Total Hair Increase     26-32
+Teminal Hairs @ 0 Months   34-40
+Teminal Hairs @ 6 Months   42-48
+Terminal Hair Increase   50-56
+

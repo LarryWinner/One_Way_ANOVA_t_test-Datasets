@@ -1,0 +1,14 @@
+Dataset: art_rmv_spots1.dat
+
+Source: K.G. Eirk (1972). "An Experimental Evaluation of Accepted Methods
+for Removing Spots and Stains from Works of Art on Paper," Bulletin of the
+American Group. International Institute for Conservation of Historic and
+and Artistic Works, Vol. 12, #2, pp. 82-87
+
+Description: Results of Experiment to compare 34 methods of removing
+stains from Aged paper. 10 reps/treatment. Data simulated to preserve
+treatment means, SDs.
+
+Variables/Columns
+Trt     7-8
+Brightness score   10-16

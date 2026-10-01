@@ -1,0 +1,20 @@
+Dataset: amoxicillin.csv
+
+Source: M.B. Delgado Charro and J.L. Vila Jato (1992). "In Vivo Study of
+Sustained-Release Formulations Containing Amoxicillin and Gelucire 64/02,"
+International Journal of Pharmaceutics, Vol. 78, pp. 35-41.
+
+Description: Study comparing 4 formulations in 16 subjects in terms of:
+Total drug excretion in 12 hours (E12)
+Mean Residence Time (MRT)
+Variance Residence Time (VRT)
+Formulations: 1=28% Gelucire 64/02 in formulaion, 2=23%, 3=18%, 4=Reference
+Authors conducted Multivariate Analysis of Variance (MANOVA)
+
+Variable Names:
+subject
+formulation
+E12
+MRT
+VRT
+

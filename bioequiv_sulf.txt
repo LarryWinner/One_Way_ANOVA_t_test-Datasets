@@ -1,0 +1,22 @@
+Dataset:  bioequiv.sulf
+
+Source: Y-M. Liu, K.E. Zhang, Y. Liu, et al (2012). "Pharmacokinetic Properties 
+and Bioequivalence of Two Sulfadoxine/Pyrimethamine Fixed-Dose Combination
+Tablets: A Parallel-Design Study in Healthy Chinese Male Volunteers,"
+Clinical Therapeutics, Vol. 34, #11, pp. 2212-2220.
+
+Description: Results of Bioequivalence test for 1-period
+parallel groups trial with 23 in Test drug and 23 in Reference Drug (46 total subjects)
+Data generated from means and standard deviations in Table I 
+(Note that in the table, appears to be arithmetic means and sd's, not geometric, 
+also see next to last paragraph on p.2216). Using these numbers, we get very similar results to Table II, p. 2219.
+
+Step 1: Obtain 90% CI for mu_T - mu_R in terms of log(Y)
+Step 2: Take 100*exp(meanDiff), 100*exp(LB) and 100*exp(UB)  
+Step 3: See whether interval lies completely between (80, 125)
+
+Variables:
+measure   1=Cmax,  2=AUC_0-72
+drug      1=Sulfadoxine, 2=Pyrimethamine
+form      1=Test, 2=Reference
+y         numeric value of reponse
