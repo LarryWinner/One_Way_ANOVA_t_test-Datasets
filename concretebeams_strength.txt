@@ -1,0 +1,17 @@
+Dataset: concretebeams_strength.csv
+
+Source: V. Colotti (2016). "Mechanical Shear Strength Model for 
+Reinforced Concrete Beams Strengthened with FRP Materials," 
+Construction and Building Materials." Vol. 124, pp. 855-865.
+
+Description: Comparison of 2 methods of predicting shear strength
+of reinforced concrete beams. Author considered the ratio of 
+experimental to predicted values for n=200 beams tested.
+
+Variables/Names
+Beam ID   (Beam_ID)
+Beam Specimen  (specimenn)
+Beam Type  (BeamType)    S=side bonded, U=U wrapped, W=fully wrapped
+Experimental Sheer Strength  (shr_stng)
+Predicted based on author's model   (ss_mod1)
+Predicted based on ACI    (ss_mod2)

@@ -1,0 +1,15 @@
+Dataset: charcoal_temp.csv
+
+Source: S.P. Bergeron, R.L. Bradley, A. Munson, W. Parsons (2013).
+"Physico-Chemical and Functional Characteristics of Soil Charcoal Produced
+at Five Different Temperatures," Soil Biology & Biochemistry, Vol. 58,
+pp. 140-146.
+
+Description: Metabolic quotient of soils amended with charcoal produced at
+5 temperatures (450C-850C by 100C) following 8 week incubation.
+Data simulated to match treatment means and SDs.
+
+Variables
+Y = Metabolic Quotient
+trt  (labelled 1-5)
+temp (Degrees Celsius)

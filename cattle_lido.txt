@@ -1,0 +1,15 @@
+Dataset:  cattle_lido.csv
+
+Source: A.C. Neves, J.C.B. Santos Junior, R.L. Marucio, M. Midon, S.P.L. Luna
+(2017). "Anesthetic Effects of Different Volumes of Lidocaine for
+Spermatic Cord Block in Cattle," Veterinary Anesthesia and Analgesia,
+Vol. 44, pp. 375-378.
+
+Description: Results of Completely Randomized Design with N=30 cattle,
+and 3 lidocaine treatments (2,3,4 ml) of lidocaine 2% injected in
+spermatic cord. Response: Surgical time (minutes)
+
+Variable Names
+lido.trt     (treatment number)
+lido.2p.ml   (amount of lidocaine)
+cast.time    (castration time in minutes)

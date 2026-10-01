@@ -1,0 +1,50 @@
+Dataset: comfort.csv
+
+
+
+Source: A.V. Cardello, C. Winterhalter, and H.G. Schultz (2003). 
+"Predicting
+the Handle and Comfort of Military Clothing Fabrics from Sensory and
+Instrumental Data: 
+Development and Application of New Psychophysical Methods,"
+Textile Research Journal, 
+Vol. 73, pp. 221-237.
+
+
+
+Description: 45 comfort ratings for 13
+military fabrics. Data generated to match means and SDs 
+Fabric types:
+10R - 50/50 Nylon/combed cotton, ripstop poplin weave
+
+11A - 50/50 Nylon/Polyester, oxford weave (Australian)
+
+12T - 50/50 Nylon/cotton, twill weave
+
+13P - 92/5/3 Nomex/Kevlar/P140, plain weave
+
+14N - 100 Cotton (former flame retardant treated)
+
+15B - 77/23 Cotton sheath/synthetic core, twill (UK)
+
+16C - 100 combed cotton, ripstop poplin (former hot weather BDU)
+
+17C - 65/35 Wool/Polyester, plain weave (Canada-unlaundered)
+
+18L - 65/35 Wool/Polyester, plain weave (Canada-laundered)
+
+19N - 92/5/3 Nomex/Kevlar/P140, oxford weave
+
+20J - Carded cotton sheath/nylon core, plain weave (Canada)
+
+124 - 100 Pima cotton ripstop poplin (experimental)
+
+176 - 50/50 Nylon carded cotton ripstop poplin weave
+
+
+
+
+Variables
+
+fabric (1=11A,...13=176)
+comfort 
